@@ -1,0 +1,3 @@
+*A <span> element which is used to color a part of a text:
+	<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+The <span> tag is an inline container used to mark up a part of a text

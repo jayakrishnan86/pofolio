@@ -1,0 +1,77 @@
+.header{
+    background-color: rgb(55, 205, 242);
+    
+}
+
+.h1a{
+    text-shadow: 2px 2px 5px black;
+    /* text-align: center; */
+
+}
+.div1{
+    position:sticky;
+    top: 0px;
+   
+    
+}
+#hr1{
+    border-top: 1px dotted rgb(14, 14, 14);
+   
+}
+.div2{
+    background-image: url(img/wp7453739-portfolio-wallpapers.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+        display: flex;
+  
+
+   
+
+}
+.div3{
+    border-radius: 50%;
+    float: let;
+    
+}
+.h2b{
+    color: white;
+    text-decoration-line: underline;
+
+}
+.div4{
+    color: white;
+    font-size: 18px;
+    
+    
+   
+    
+}
+.div5{
+    font-size: 36px;
+    text-indent: 50px;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 60px;
+    margin-left: 60px;
+
+}
+.div6{
+    border-style: solid;
+    border-color: red;
+    border-radius: 5px;
+}
+.cols
+{
+    flex: 50%;
+    padding: 10px;
+    height: 300px;
+}
